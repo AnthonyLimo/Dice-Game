@@ -57,22 +57,22 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="oNe-fs-E9i" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="38" id="0Iy-Cm-e0K"/>
+                            <constraint firstItem="eck-uZ-00C" firstAttribute="top" secondItem="Pol-JI-mua" secondAttribute="bottom" constant="77" id="0av-X5-WcH"/>
                             <constraint firstItem="Pol-JI-mua" firstAttribute="centerX" secondItem="mAx-O9-6nd" secondAttribute="centerX" id="9nZ-zI-oPG"/>
+                            <constraint firstItem="eck-uZ-00C" firstAttribute="top" secondItem="oNe-fs-E9i" secondAttribute="top" id="AuN-48-Fqu"/>
+                            <constraint firstItem="eck-uZ-00C" firstAttribute="leading" secondItem="oNe-fs-E9i" secondAttribute="trailing" constant="42" id="Aug-by-1g9"/>
                             <constraint firstItem="1Dx-Et-qRO" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="I2y-dx-vmd"/>
-                            <constraint firstItem="eck-uZ-00C" firstAttribute="leading" secondItem="oNe-fs-E9i" secondAttribute="trailing" constant="42" id="Nb7-dr-Xdc"/>
-                            <constraint firstItem="eck-uZ-00C" firstAttribute="top" secondItem="oNe-fs-E9i" secondAttribute="top" id="RtZ-ab-KfF"/>
                             <constraint firstItem="1Dx-Et-qRO" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="UWK-cJ-Ljk"/>
+                            <constraint firstItem="eck-uZ-00C" firstAttribute="bottom" secondItem="oNe-fs-E9i" secondAttribute="bottom" id="Xm4-yD-HEL"/>
                             <constraint firstAttribute="trailing" secondItem="1Dx-Et-qRO" secondAttribute="trailing" id="YkX-2b-xf9"/>
                             <constraint firstItem="oNe-fs-E9i" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" constant="280" id="ZQY-R4-0X3"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="eck-uZ-00C" secondAttribute="trailing" constant="39" id="bC9-V0-dYn"/>
                             <constraint firstItem="1Dx-Et-qRO" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="fno-Uc-e4b"/>
-                            <constraint firstItem="eck-uZ-00C" firstAttribute="bottom" secondItem="oNe-fs-E9i" secondAttribute="bottom" id="gnm-t6-dxg"/>
                             <constraint firstItem="Pol-JI-mua" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="55" id="gur-H1-KRA"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="eck-uZ-00C" secondAttribute="trailing" constant="39" id="hig-uo-gTL"/>
                             <constraint firstItem="mAx-O9-6nd" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="102" id="kCm-x5-tSh"/>
                             <constraint firstItem="mAx-O9-6nd" firstAttribute="centerX" secondItem="1Dx-Et-qRO" secondAttribute="centerX" id="m3t-im-cHP"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="mAx-O9-6nd" secondAttribute="bottom" constant="96" id="nzM-iL-7tE"/>
                             <constraint firstItem="Pol-JI-mua" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="67" id="rK4-cV-mrm"/>
-                            <constraint firstItem="eck-uZ-00C" firstAttribute="top" secondItem="Pol-JI-mua" secondAttribute="bottom" constant="77" id="tuX-RG-cy1"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
